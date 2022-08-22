@@ -1,0 +1,16 @@
+{
+  "name": "untitled37",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon demo.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
